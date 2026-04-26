@@ -83,41 +83,6 @@ B2G  →  Государственные контракты на данные и
 LTV: $95  |  CAC: $30  |  SOM: $5–11M/год
 ```
 
----
-
-## 📊 Размер рынка
-
-| | Рынок | Объём |
-|---|---|---|
-| **TAM** | Глобальный travel-tech (booking, AI, CRM) | **$12.1 млрд** |
-| **SAM** | Туризм Кыргызстана | **$1.098 млрд** |
-| **SOM** | Цель на 2–3 года | **$5–11 млн/год** |
-
----
-
-## 🗺 Дорожная карта
-
-```
-0–6 мес   ▓▓▓▓▓▓░░░░░░   Подключить 50–100 бизнесов · Партнёрство с Госагентством туризма
-                          Цель: 1 000 активных туристов
-
-6–12 мес  ▓▓▓▓░░░░░░░░   Контент-маркетинг · Интеграции Booking / Яндекс.Такси / Ticket.kg
-                          Цель: 5 000+ туристов, 150+ бизнесов
-
-12–24 мес ▓▓░░░░░░░░░░   Программа легализации · Мобильное приложение
-                          Цель: 10 000+ туристов, 500+ бизнесов
-```
-
----
-
-## 📈 Прогнозы
-
-| Период | Пользователи | Бизнесы | Выручка |
-|---|---|---|---|
-| Конец 2026 | 1 000 | 100 | $50K |
-| Конец 2027 | 10 000 | 500 | $350K |
-
----
 
 ## 🏆 Конкурентный анализ
 
@@ -159,7 +124,7 @@ LTV: $95  |  CAC: $30  |  SOM: $5–11M/год
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@pubfnmain-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/pubfnmain)
+
 [![Email](https://img.shields.io/badge/Email-arawemail@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:arawemail@gmail.com)
 [![Website](https://img.shields.io/badge/Website-unigency.vercel.app-000000?style=for-the-badge&logo=vercel)](https://unigency.vercel.app/)
 
