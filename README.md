@@ -10,6 +10,7 @@
 [![AI Chat](https://img.shields.io/badge/🤖_AI_Chat-Try_Now-4a9bbe?style=for-the-badge)](https://unigency.vercel.app/chat)
 [![CRM](https://img.shields.io/badge/📊_CRM_Demo-Login-5aabcc?style=for-the-badge)](https://unigency.vercel.app/login?mail=admin@gmail.com&pw=123456)
 [![Gov Portal](https://img.shields.io/badge/🏛_Gov_Portal-View_Stats-3d7a9a?style=for-the-badge)](https://unigency.vercel.app/gov-portal-2026)
+[![GitLab](https://img.shields.io/badge/GitLab-vibe--project-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/selftype/vibe-project)
 
 </div>
 
